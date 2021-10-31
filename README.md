@@ -1,7 +1,7 @@
 # Challenge_6
 ---
 ## **Introduction**
-### This program is designed to aid a protech company identify viable investment opportunities in the San Francisco housing market. 
+### This program is designed to aid a proptech company identify viable investment opportunities in the San Francisco housing market. 
 ---
 ## **Technologies**
 ### This project is created in Jupyter Notebook and uses the following libraries: ```pandas, hvplot, Path, NumeralTickFormatter ```
